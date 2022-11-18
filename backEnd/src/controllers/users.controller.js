@@ -1,6 +1,8 @@
 import { infoUserService } from "../services/users.service";
 
-export const infoUserController = (request, response) => {
-
-  return response.status(200).json(infoUserService());
+export const infoUserController = async (request, response) => {
+  
+              return response
+                  .status(200)
+                  .json( await infoUserService());
 };
