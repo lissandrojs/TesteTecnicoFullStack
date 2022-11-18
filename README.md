@@ -25,7 +25,7 @@ yarn dev ou npm run dev
 Api estara disponivel na porta 3002.
 
 <h2>Front End</h2>
-Com o back-end inicializado abra outra aba do terminal e dentro dentro do projeto frontEnd com o comando .( se necessario volte um diretorio com cd .. e dentre na past do front)
+Com o back-end inicializado abra outra aba do terminal e dentro dentro do projeto frontEnd com o comando .( se necessario volte um diretorio com cd .. e entre na past do front)
 
 cd frontEnd
 
