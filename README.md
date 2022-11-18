@@ -37,7 +37,7 @@ Apos a instalação das dependencias voce pode iniciar o projeto  com o comando.
 
 yarn dev ou npm run dev
 
-Apos a inicialização do projeto ira abrir um nova aba com o sistema disponivel para avaliação .
+Apos a inicialização do projeto ira abrir um nova aba do navegador com o sistema disponivel para avaliação na url http://localhost:3000/ .
 
 ### Observação
 Inicializar primeiro o projeto back-end para que as informações fique disponivel pra o front-end exibir as informações.

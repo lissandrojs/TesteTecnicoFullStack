@@ -54,7 +54,7 @@ const TableUserRegister = () =>{
                         <StyledTableCell align="right">ID</StyledTableCell>
                         <StyledTableCell >NOME</StyledTableCell>
                         <StyledTableCell align="right">USERNAME</StyledTableCell>
-                        <StyledTableCell align="right">EMAIL</StyledTableCell>
+                        <StyledTableCell align="left">EMAIL</StyledTableCell>
                     </TableRow>
                     </TableHead>
                     <TableBody>     

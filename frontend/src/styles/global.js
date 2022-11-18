@@ -7,11 +7,6 @@ export default createGlobalStyle`
         box-sizing: border-box;
         outline: 0;   
     }
-    :root{
-        --azul-claro:#29abe2;
-        --azul-escuro: #012d51;
-        --cinza:#808080; 
-    }
    
     a{
         text-decoration: none;
