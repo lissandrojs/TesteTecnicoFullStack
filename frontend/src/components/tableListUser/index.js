@@ -9,6 +9,7 @@ import TableRow from '@mui/material/TableRow';
 import Paper from '@mui/material/Paper';
 import { useEffect, useState } from "react";
 import axios from 'axios'
+import Loading from '../Loading';
 
 
 const StyledTableCell = styled(TableCell)(({ theme }) => ({
@@ -72,6 +73,7 @@ const TableUserRegister = () =>{
                     </TableBody>
                 </Table>
                 </TableContainer>
+               {resultUsers.length <= 0 ? <Loading/> : null}
             </>
     )
 }
