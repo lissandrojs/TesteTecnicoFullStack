@@ -14,15 +14,7 @@ Com seu projeto em sua maquina , abra o terminal dentro do projeto .
 Entre dentro da pasta do backEnd com o comando  .
 cd backEnd
 
-Dentro do projeto backEnd instale as dependencias com o comando.
-
-yarn ou npm install
-
-Apos a instalação das dependencias voce pode iniciar o projeto  com o comando.
-
-yarn dev ou npm run dev
-
-Api estara disponivel na porta 3002.
+e tera instruções detalhadas 
 
 <h2>Front End</h2>
 Com o back-end inicializado abra outra aba do terminal e dentro dentro do projeto frontEnd com o comando .( se necessario volte um diretorio com cd .. e entre na past do front)
